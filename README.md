@@ -4,7 +4,7 @@ A console application for managing large data using a key-value engine.
 
 ---
 
-This was a university projectt, done in the team of five, for the course "Advanced Algorithms and Data Structures", taken in the 3rd semester of the Software Engineering and Information Technologies program.
+This was a university project, done in the team of five, for the course "Advanced Algorithms and Data Structures", taken in the 3rd semester of the Software Engineering and Information Technologies program.
 
 The ``goal`` of the project was to:
 - apply acquired knowledge of advanced algorithms and data structures,
