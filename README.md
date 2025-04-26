@@ -27,7 +27,7 @@ Date: February, 2024.
 
 # Using the Application ⚙️
 
-To use this website, follow the next steps:
+To use this application, follow the next steps:
 1) clone this repo,
 2) run the program in the console: ``go run main.go``
 
